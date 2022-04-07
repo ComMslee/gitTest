@@ -7,6 +7,8 @@ i
 ooooooo
 
 
+isu:
+
 main:-init
 -init
 
